@@ -1,0 +1,3 @@
+Tue Jan 20 02:09:02 2026 - Withdraw - 6000 ETB - Balance 24000
+Tue Jan 20 02:11:27 2026 - Deposit - 6785 ETB - Balance 30785
+Tue Jan 20 02:12:24 2026 - TransferTo 118960 - 2 ETB - Balance 30783

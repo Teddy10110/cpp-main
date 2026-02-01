@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1769443660 source:c:\users\hp\documents\cpp main\group 3 assi - copy (2)\assi\election\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

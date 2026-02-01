@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1768888303 source:c:\users\hp\documents\cpp main\assi\3 codeblock try\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+

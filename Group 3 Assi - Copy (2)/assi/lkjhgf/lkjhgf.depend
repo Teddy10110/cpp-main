@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1768900468 source:c:\users\hp\documents\cpp main\group 3 assi - copy (2)\assi\lkjhgf\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<ctime>
+	<conio.h>
+	<iomanip>
+

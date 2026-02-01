@@ -1,0 +1,25 @@
+string getMaskedInput(int lang, const string &bgColor)
+{
+    fullScreenBackground(bgColor);
+    cout << BLACK << (lang == 1 ? "Enter PIN: " : "PIN ያስገቡ: ");
+
+    string input = "";
+    char ch;
+    int count = 0;
+    while ((ch = _getch()) != '\r' && count < 10)
+    {
+        count++;
+        if (ch == '\b' && !input.empty())
+        {
+            input.pop_back();
+            cout << "\b \b";
+        }
+        else if (isdigit(ch))
+        {
+            input.push_back(ch);
+            cout << MAGENTA << "*";
+        }
+    }
+    cout << endl;
+    return input;
+}

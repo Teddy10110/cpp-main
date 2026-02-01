@@ -1,0 +1,4 @@
+2026-01-27 10:58 - Withdraw - 340 ETB - Balance 89660
+2026-01-27 10:58 - Deposit - 2000 ETB - Balance 91660
+2026-01-27 10:59 - Transfer to 100001 - 345 ETB - Balance 91315
+2026-01-27 11:00 - PIN Change - 0 ETB - Balance 91315
