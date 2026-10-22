@@ -3,7 +3,7 @@
 #include <string.h>
 #include <cstdlib>
 #include <ctime>
-#include <conio.h> // for getch()
+//#include <conio.h> // for getch()
 using namespace std;
 
 /* ================= FULL-SCREEN BACKGROUND & SCREEN CLEAR ================= */
